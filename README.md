@@ -37,16 +37,10 @@ Please refer to the business statement file for full context.
 ---
 
 ## Repository Structure
-scripts/ - Data ingestion and vendor summary generation scripts
+'''scripts/ - Data ingestion and vendor summary generation scripts
 notebooks/ - EDA and vendor performance analysis notebooks
 powerbi/ - Power BI dashboard file
-logs/ - Execution and process logs
-
----
-
-## Dataset Note
-The raw datasets are large and are not included in this repository.
-Scripts reference external data sources and local paths may require updates.
+logs/ - Execution and process logs'''
 
 ---
 
