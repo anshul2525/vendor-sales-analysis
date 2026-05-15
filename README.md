@@ -53,4 +53,8 @@ logs/ - Execution and process logs
 - Inventory efficiency and turnover evaluation
 - Business-ready insights through dashboards
 
+## Dashboard Preview
+<img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/9bdfd085-c96f-4548-873f-7126ca32a59b" />
+
+
 ---
