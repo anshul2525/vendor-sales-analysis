@@ -54,7 +54,8 @@ logs/ - Execution and process logs
 - Business-ready insights through dashboards
 
 ## Dashboard Preview
-<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/b035309e-1d50-425d-83c5-8aa3bf88bce1" />
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/9f4b0202-8b09-47ad-9e7d-4cafce8c0dfc" />
+
 
 
 
